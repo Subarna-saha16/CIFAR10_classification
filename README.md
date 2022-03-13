@@ -3,7 +3,7 @@
 Download the dataset from -
 http://www.cs.toronto.edu/~kriz/cifar.html
 
-For model training refer the MODEL TRAINING section from the notebook (cifar_classinfication.ipynb).
+For model training refer the MODEL TRAINING section from the notebook (cifar_classification.ipynb).
 There are 2 models. The smaller model has lower accuracy so have trained larger model.
 
 For prediction refer to the PREDICTION ON TEST IMAGES from the notebook.
